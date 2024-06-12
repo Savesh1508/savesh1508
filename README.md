@@ -7,7 +7,7 @@
 I'm a Full Stack developer specializing in Node.js and Vue.js. My expertise includes building scalable web applications, optimizing backend processes, and integrating APIs. I'm passionate about solving complex problems and implementing efficient algorithms to improve system performance. I have experience in database management and have delivered projects that automate tasks and increase productivity. I'm dedicated to creating impactful software solutions that address real-world challenges. Find out more about me & feel free to connect with me here:
 
 [![Intagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/savesh1508/)](https://www.instagram.com/savesh1508/)
-[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/Savesh2004)](https://t.me/Savesh2004)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/eshonovs_code)](https://t.me/eshonovs_code)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/savlatxon-eshonov-b4452a292/)](https://www.linkedin.com/in/savlatxon-eshonov-b4452a292/)
 
 <h3 align="left">⚡ Languages and Tools:</h3>
